@@ -14,10 +14,6 @@ npm update
 npm install animate.css --save
 ```
 
-### JSON server start
-```
-json-server --watch db.json
-
 ### Compiles and hot-reloads for development
 ```
 npm run dev
@@ -27,3 +23,6 @@ npm run dev
 ```
 npm run build
 ```
+### JSON server start
+```
+json-server --watch db.json
