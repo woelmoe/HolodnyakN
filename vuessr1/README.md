@@ -1,5 +1,14 @@
 # Vue-ssr-express
 
+launch json server
+(json-server --watch db.json within command line)
+launch project for "production"
+(npm run build)
+launch project for "develop"
+(npm run dev)
+
+all commands are below
+
 ## Project setup
 ```
 npm install
